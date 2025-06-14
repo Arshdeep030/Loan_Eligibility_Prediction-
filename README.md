@@ -68,7 +68,7 @@ The objective is to help the company:
 - **Confusion Matrix**
 
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Python
 - Jupyter Notebook
